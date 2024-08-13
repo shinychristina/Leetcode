@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/shinychristina/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1801-average-time-of-process-per-machine](https://github.com/shinychristina/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/shinychristina/Leetcode/tree/master/1827-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shinychristina/Leetcode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shinychristina/Leetcode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shinychristina/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
