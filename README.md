@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shinychristina/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/shinychristina/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/shinychristina/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shinychristina/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shinychristina/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shinychristina/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
