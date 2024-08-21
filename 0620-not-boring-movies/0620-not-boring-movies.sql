@@ -1,0 +1,1 @@
+select * from cinema where NOT cinema.description="boring" and if(cinema.id%2,1,0) order by cinema.rating desc
