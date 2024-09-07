@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shinychristina/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shinychristina/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/shinychristina/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/shinychristina/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shinychristina/Leetcode/tree/master/0013-roman-to-integer) |
+## Greedy
+|  |
+| ------- |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/shinychristina/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 <!---LeetCode Topics End-->
