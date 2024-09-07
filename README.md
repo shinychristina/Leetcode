@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shinychristina/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/shinychristina/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shinychristina/Leetcode/tree/master/0189-rotate-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/shinychristina/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Two Pointers
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/shinychristina/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shinychristina/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
