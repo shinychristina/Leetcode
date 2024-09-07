@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shinychristina/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/shinychristina/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/shinychristina/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/shinychristina/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shinychristina/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shinychristina/Leetcode/tree/master/0189-rotate-array) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/shinychristina/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shinychristina/Leetcode/tree/master/0217-contains-duplicate) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/shinychristina/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## String
 |  |
 | ------- |
@@ -66,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/shinychristina/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/shinychristina/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Number Theory
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/shinychristina/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
